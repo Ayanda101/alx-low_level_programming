@@ -1,7 +1,7 @@
 #include "main.h"
 	/**
-	 * main - _putchar-prints a single character
-	 * 
+	 * main - _putchar
+	 * print in ingle character
 	 * Return: 0
 	 */
 
